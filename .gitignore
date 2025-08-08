@@ -1,0 +1,42 @@
+# STM32CubeIDE
+.metadata/
+Debug/
+*.launch
+*.elf
+*.map
+*.list
+*.o
+*.d
+*.su
+*.cyclo
+*.mk
+*.pdb
+*.log
+*.suo
+*.user
+*.sdf
+*.sln
+*.db
+*.pyc
+*.pyo
+*.exe
+*.out
+*.a
+*.bin
+*.hex
+*.obj
+*.class
+*.swp
+*.DS_Store
+*.vscode/
+# CubeMX
+*.ioc
+# OS generated
+Thumbs.db
+.DS_Store
+# Other
+*.zip
+*.tar.gz
+*.7z
+*.bak
+*.tmp
